@@ -21,6 +21,7 @@ We hope you find these prompts useful and have fun using Claude!
 * Claude Now has official [Prompt library](https://docs.anthropic.com/claude/prompt-library)
 * [Anthropic's Prompt Engineering Interactive Tutorial](https://github.com/anthropics/prompt-eng-interactive-tutorial)
 * [Claudebin](https://claudebin.com) ([GitHub](https://github.com/wunderlabs-dev/claudebin.com/)) - A minimalistic tool for publishing and sharing Claude coding sessions
+* [DNA Claude Analysis](https://github.com/shmlkv/dna-claude-analysis) - Personal genome analysis toolkit built with Claude Code. Analyzes raw DNA data across 17 categories and generates a terminal-style HTML dashboard
 
 
 
