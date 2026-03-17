@@ -157,6 +157,7 @@ We hope you find these prompts useful and have fun using Claude!
 - [Simulate A Job Interview](#simulate-a-job-interview)
 - [Learn a new topic using AI](#learn-a-new-topic-using-ai)
 - [Use Claude to answer frequently asked questions](#use-claude-to-answer-frequently-asked-questions)
+- [Claude 4.6 Advanced System Prompts Collection](#claude-46-advanced-system-prompts-collection)
 
 
 ## AI Resume（with Claude Artifacts)
@@ -2975,4 +2976,9 @@ Prompt 2: I don't know [topic]. Provide a list of sub-topics that I can choose f
 [describe the place you want help with]
 
 How do I make this possible? Give me simple step-by step instructions.
+```
+
+## Claude 4.6 Advanced System Prompts Collection
+```
+- [Claude 4.6 Advanced System Prompts](https://github.com/sangjinnggg/Claude-advanced-system-prompts) - A curated collection of highly optimized, role-based system prompts maximizing Claude 4.6's extended context and adaptive thinking.
 ```
