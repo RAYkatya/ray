@@ -22,6 +22,9 @@ We hope you find these prompts useful and have fun using Claude!
 * [Anthropic's Prompt Engineering Interactive Tutorial](https://github.com/anthropics/prompt-eng-interactive-tutorial)
 * [Claudebin](https://claudebin.com) ([GitHub](https://github.com/wunderlabs-dev/claudebin.com/)) - A minimalistic tool for publishing and sharing Claude coding sessions
 
+## Claude Skills / 技能市场
+* [技能宝 SkillHub](https://github.com/kevinaimonster/skill-hub) - 中文社区最大的 AI 技能市场，50+ 精选技能（小红书/抖音/公众号/代码审查/安全审计等），5000+ 索引，12重安全检测，支持 42 个 Agent 平台。
+
 
 
 ## Contents
