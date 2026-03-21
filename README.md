@@ -21,6 +21,7 @@ We hope you find these prompts useful and have fun using Claude!
 * Claude Now has official [Prompt library](https://docs.anthropic.com/claude/prompt-library)
 * [Anthropic's Prompt Engineering Interactive Tutorial](https://github.com/anthropics/prompt-eng-interactive-tutorial)
 * [Claudebin](https://claudebin.com) ([GitHub](https://github.com/wunderlabs-dev/claudebin.com/)) - A minimalistic tool for publishing and sharing Claude coding sessions
+* [Skillfold](https://github.com/byronxlg/skillfold) - Configuration language and compiler for multi-agent AI pipelines. Compiles a single YAML config into agent skills for 11 platforms including Claude Code, Cursor, Copilot, and Gemini.
 
 
 
