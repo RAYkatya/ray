@@ -2976,3 +2976,7 @@ Prompt 2: I don't know [topic]. Provide a list of sub-topics that I can choose f
 
 How do I make this possible? Give me simple step-by step instructions.
 ```
+## XVARY Stock Research
+
+- [XVARY Stock Research](https://github.com/xvary-research/claude-code-stock-analysis-skill) — Claude Code skill for public SEC EDGAR + market data: `/analyze`, `/score`, `/compare`. MIT.
+
