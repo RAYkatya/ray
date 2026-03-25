@@ -1621,6 +1621,10 @@ Provide the name of the open source project in [project name].
 5. I'm looking for ways to increase the visibility of our Github project and attract new contributors.
 ```
 
+## Claude Tools & Extensions
+
+- [Cortex](https://github.com/SKULLFIRE07/cortex-memory) - Persistent AI memory for coding assistants. Auto-captures decisions, patterns, and context from Claude Code, Cursor, and Cline sessions. VSCode extension + CLI + MCP server. Free.
+
 ## Claude with Functions
 
 Let claude implement openai's functions-like functionality.
