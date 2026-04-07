@@ -24,6 +24,10 @@ We hope you find these prompts useful and have fun using Claude!
 
 
 
+
+## AI Skills & Personas Marketplace
+* [RemoteOpenClaw](https://remoteopenclaw.com) - Open marketplace for AI skills and personas built on OpenClaw. Discover, share, and sell community-built AI agent capabilities.
+
 ## Contents
 - [Claude Code Coding Prompt](claudecode/LinusTorvalds.md)
 - [Summarize this PDF document (official example)](#summarize-this-pdf-document-official-example)
