@@ -2976,3 +2976,25 @@ Prompt 2: I don't know [topic]. Provide a list of sub-topics that I can choose f
 
 How do I make this possible? Give me simple step-by step instructions.
 ```
+
+## Run AI-powered outbound campaigns using Overloop CLI
+[Overloop CLI](https://github.com/sortlist/overloop-cli) (`npm i -g overloop-cli`) — Source prospects from 450M+ contacts, launch email + LinkedIn campaigns, manage conversations. JSON output, agent-native. [agent.overloop.ai](https://agent.overloop.ai)
+```
+You are an outbound sales agent. Use Overloop CLI to:
+1. Search for prospects matching [describe your ICP: industry, company size, job title, location]
+2. Enroll matching prospects into a multi-channel campaign (email + LinkedIn)
+3. Monitor replies and flag positive conversations
+
+Run `overloop search --query "[your ICP]" --output json` to find prospects, then `overloop campaign create` to launch sequences. Report results as a structured summary.
+```
+
+## Monitor intent signals using Signals CLI
+[Signals CLI](https://github.com/sortlist/signals-cli) (`npm i -g signals-sortlist-cli`) — Track LinkedIn engagers, keyword posters, job changers, funding events. JSON output for agent pipelines.
+```
+You are a sales intelligence agent. Use Signals CLI to:
+1. Monitor [describe signals: LinkedIn engagers on competitor posts, people posting about a keyword, job changers in target roles, companies that just raised funding]
+2. Score each signal by relevance to [your product/service]
+3. Output a prioritized list of warm leads with context on why they are relevant
+
+Run `signals monitor --type [signal-type] --output json` and analyze the results. Summarize the top opportunities.
+```
